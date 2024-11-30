@@ -1,7 +1,6 @@
 <h1 align="center">Hello! Contact me for my name!</h1>
 
 
-<p align="center"> <a href="https://github.com/solacecoding"><img src= "https://github-profile-trophy.vercel.app/?username=solacecoding&theme=nord"/></a> </p>
 
 <p align="center"> <a href="https://github.com/solacecoding"><img src = "https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=grow_out_in"/> </a> </p>
 <h2 align="center">About Me</h2>
@@ -60,9 +59,8 @@ Research = true
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-
-
+<h3>Github Statistics </h3>
+<p align="center"> <a href="https://github.com/solacecoding"><img src= "https://github-profile-trophy.vercel.app/?username=solacecoding&theme=nord"/></a> </p>
 <a href="https://github.com/solacecoding"> 
 
 ![All Commits](https://github-readme-stats.vercel.app/api?username=solacecoding&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
