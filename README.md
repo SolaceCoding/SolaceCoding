@@ -4,7 +4,17 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src= "https://github-profile-trophy.vercel.app/?username=solacecoding&theme=nord"/></a> </p>
 
 <p align="center"> <a href="https://github.com/"><img src = "https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=grow_out_in"/> </a> </p>
+<h2 align="center">About Me</h2>
 
+
+```python
+Research = true
+
+```
+<p>(WIP)</p>
+
+
+---
 <h3 align="center">Connect with me:</h3>
 <p align="left">
 </p>
