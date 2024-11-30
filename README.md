@@ -1,9 +1,9 @@
 <h1 align="center">Hello! Contact me for my name!</h1>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src= "https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src= "https://github-profile-trophy.vercel.app/?username=solacecoding&theme=nord"/></a> </p>
 
-<p align="center"> <a href="https://github.com/"><img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> </a> </p>
+<p align="center"> <a href="https://github.com/"><img src = "https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=grow_out_in"/> </a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
