@@ -6,6 +6,12 @@
 
 
 
+<h3>About me</h3>
+<ul>
+  <li>Researcher</li>
+</ul>
+
+Thats all you need to know!
 
 <h3>Github Statistics </h3>
 <p align="center"> <a href="https://github.com/solacecoding"><img src= "https://github-profile-trophy.vercel.app/?username=solacecoding&theme=nord"/></a> </p>
