@@ -2,7 +2,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/solacecoding"><img src = "https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=grow_out_in"/> </a> </p>
+<p align="center"> <a href="https://github.com/solacecoding"><img src = "https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational&theme=vue-dark&animation=grow_out_in"/> </a> </p>
 
 
 
