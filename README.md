@@ -22,7 +22,13 @@ Thats all you need to know!
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solacecoding&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </a>
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/SolaceCoding"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 
