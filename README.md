@@ -11,21 +11,20 @@
   <li>Researcher</li>
 </ul>
 
-Thats all you need to know!
 
-<h3>Github Statistics </h3>
-<p align="center"> <a href="https://github.com/solacecoding"><img src= "https://github-profile-trophy.vercel.app/?username=solacecoding&theme=nord"/></a> </p>
-<a href="https://github.com/solacecoding"> 
 
-![All Commits](https://github-readme-stats.vercel.app/api?username=solacecoding&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=solacecoding&theme=catppuccin_mocha&hide_border=false)<br/>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solacecoding&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center"> <a href="https://github.com/solacecoding"><img src= "https://github-profile-trophy.vercel.app/?username=solacecoding&theme=nord&hide_border=true"/></a> </p>
+<p align="center"><a href="https://github.com/solacecoding"> 
+
+<img src = "https://github-readme-stats.vercel.app/api?username=solacecoding&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)" />
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=solacecoding&theme=catppuccin_mocha&hide_border=true" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=solacecoding&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </a>
-
+</p>
 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=solacecoding&icon=0&color=0)](https://visitcount.itsvg.in)
 
