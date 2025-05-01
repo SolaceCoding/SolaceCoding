@@ -1,15 +1,12 @@
 <h1 align="center">Hello!</h1>
 
-
+ 
 
 <p align="center"> <a href="https://github.com/solacecoding"><img src = "https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational&theme=vue-dark&animation=grow_out_in"/> </a> </p>
 
 
 
-<h3>About me</h3>
-<ul>
-  <li>Researcher</li>
-</ul>
+
 
 
 
